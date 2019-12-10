@@ -7,7 +7,7 @@ As an incoming transfer student at UCLA I worried about building and maintaining
 
 ## Persona 
 
-![](https://izuberi.github.io/FinalProject/Persona.png)  
+![](https://izuberi.github.io/Portfolio/Persona.png)  
 
 ## User Scenario - A New Beginning   
 
@@ -15,7 +15,7 @@ Kyle just moved into a new school from abroad, leaving behind his family and fri
 
 ## Wireframes + Wireflow 
 
-![](https://izuberi.github.io/FinalProject/Wireframe.png)
+![](https://izuberi.github.io/Portfolio/Wireframe.png)
 
 ## Screen Designs 
 
