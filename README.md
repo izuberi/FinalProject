@@ -12,3 +12,10 @@ User Scenario - A New Beginning
 
 Kyle just moved into a new school from abroad, leaving behind his family and friends. He feels extremeley isolated and lonely which is effecting his mood, study and work ethics. He feels himself slipping into a depressive state as weeks go by. As weeks pass by Noah finds that everyone else seems to have already found their groups and he seems to be the only one who still feels like he doesn't belong. Whilst he goes through Instagram he finds everyone having a good time. Noah comes across the app 'iKo' created by his fellow UCLA students and creates an account. He sends a request to four of his classmates from his Design class and forms a group. Now that they can see each other's schedules it makes planning out lunches and study sessions much easier. Because of this app he feels he can see his classmates more often in a social setting beyond the classroom. Kyle uses this oppurtunity to bond with his classmates and start a much more meaningful friendship. 
 
+Wireframes + Wireflow 
+
+![](https://izuberi.github.io/FinalProject/IMG_5234.HEIC)
+
+Screen Designs 
+
+Interactive Prototype
