@@ -14,7 +14,7 @@ Kyle just moved into a new school from abroad, leaving behind his family and fri
 
 Wireframes + Wireflow 
 
-![](https://izuberi.github.io/FinalProject/IMG_5234.HEIC)
+![](https://izuberi.github.io/FinalProject/Wireframe.png)
 
 Screen Designs 
 
