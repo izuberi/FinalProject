@@ -1,5 +1,5 @@
 # Final Design Project
-##### iKo is an app for Mental Wellbeing and Health targeted at university students to balance their university schedule with socializing with their peers. 
+### iKo is an app for Mental Wellbeing and Health targeted at university students to balance their university schedule with socializing with their peers. 
 
 ## Design Problem Statement  
 
