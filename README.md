@@ -49,3 +49,5 @@ I conducted a usability test using the rough prototype of the app iKo on a first
 The interviewee was able to navigate through the website easily but pointed out difficulty in returning to the main page after completing the first task of adding a new class there was a missing back link which stopped her from returning back to the scheduling page in case she made a mistake. She also pointed out that if someone tried to add a friend's username that didn't exist the follow up page could give recommendations on similar username's to the one typed by the user in case the user accidentally misspelled it. This would also improve the 'Error Prevention' and 'Flexibility' of the app in it's Heuristic Evaluations. 
 
 ## Try The App! 
+
+[Click Here](https://www.figma.com/file/Djv1B8qfscLk8L9VZEazbI/iKo?node-id=0%3A1)
