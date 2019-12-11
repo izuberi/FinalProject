@@ -20,8 +20,6 @@ Kyle just moved into a new school from abroad, leaving behind his family and fri
 ## Screen Designs 
 
 Registration Page  
-
-Registration  
 ![](https://izuberi.github.io/Portfolio/Registration.png)
 
 Completed Registered Profile  
@@ -40,7 +38,7 @@ Messaging Friend
 ![](https://izuberi.github.io/Portfolio/Friend%20Profile.png)
 
 Overview  
-![](https://izuberi.github.io/Portfolio/Overview.png)
+![](https://izuberi.github.io/Portfolio/Overview%20New.png)
 
 ## Usability Testing
 
