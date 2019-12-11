@@ -19,6 +19,26 @@ Kyle just moved into a new school from abroad, leaving behind his family and fri
 
 ## Screen Designs 
 
+Registration Page
+
+Registration
+![](https://izuberi.github.io/Portfolio/Registration.png)
+
+Completed Registered Profile
+![](https://izuberi.github.io/Portfolio/Registration%20Profile.png)
+
+Different Versions of the Menu (depending on number of group members)
+![](https://izuberi.github.io/Portfolio/Menu.png)
+
+User Schedule
+![](https://izuberi.github.io/Portfolio/Self%20Schedule.png)
+
+Adding A Friend
+![](https://izuberi.github.io/Portfolio/Adding%20%A%20Friend.png)
+
+Messaging Friend
+![](https://izuberi.github.io/Portfolio/Friend%20Profile.png)
+
 ## Usability Testing
 
 I conducted a usability test using the rough prototype of the app iKo on a first year transfer student at UCLA. Similar to the persona that was created the interviewee was also a student who had just moved to Los Angeles was feeling a bit overwhelmed with the new and unfamiliar environment. She was asked to complete the task of adding a new class to her own profiles schedule and to also view a schedule of one of the other test users. Whilst conducting the interview we asked her for verbal feedback whilst completing the tasks and observed the difficulty level of the tasks. 
