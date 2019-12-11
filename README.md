@@ -34,13 +34,13 @@ User Schedule
 ![](https://izuberi.github.io/Portfolio/Self%20Schedule.png)
 
 Adding A Friend  
-![](https://izuberi.github.io/Portfolio/Adding%20%A%20Friend.png)
+![](https://izuberi.github.io/Portfolio/Adding%20A%20Friend.png)
 
 Messaging Friend  
 ![](https://izuberi.github.io/Portfolio/Friend%20Profile.png)
 
 Overview  
-![]((https://izuberi.github.io/Portfolio/Overview.png)
+![](https://izuberi.github.io/Portfolio/Overview.png)
 
 ## Usability Testing
 
