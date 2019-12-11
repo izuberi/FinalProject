@@ -42,11 +42,14 @@ Overview
 
 ## Usability Testing
 
-I conducted a usability test using the rough prototype of the app iKo on a first year transfer student at UCLA. Similar to the persona that was created the interviewee was also a student who had just moved to Los Angeles was feeling a bit overwhelmed with the new and unfamiliar environment. She was asked to complete the task of adding a new class to her own profiles schedule and to also view a schedule of one of the other test users. Whilst conducting the interview we asked her for verbal feedback whilst completing the tasks and observed the difficulty level of the tasks. 
+I conducted a usability test using the rough prototype of the app iKo on a first year transfer student at UCLA. Similar to the persona that was created the interviewee was also a student who had just moved to Los Angeles was feeling a bit overwhelmed with the new and unfamiliar environment. She was asked to complete the task of adding a new friend to her group and send her a message about 'Studying together at Hedrick' and to also add a new class into her own schedule. Whilst conducting the interview we asked her for verbal feedback whilst completing the tasks and observed the difficulty level of the tasks. 
+
+Below is the Testing Video from the Interview
+![](https://izuberi.github.io/Portfolio/Testing.mov)
 
 ## Results and Reflection 
 
-The interviewee was able to navigate through the website easily but pointed out difficulty in returning to the main page after completing the first task of adding a new class there was a missing back link which stopped her from returning back to the scheduling page in case she made a mistake. She also pointed out that if someone tried to add a friend's username that didn't exist the follow up page could give recommendations on similar username's to the one typed by the user in case the user accidentally misspelled it. This would also improve the 'Error Prevention' and 'Flexibility' of the app in it's Heuristic Evaluations. 
+The interviewee was able to navigate through the website easily but pointed out difficulty in returning to the main page after completing the first task of adding a friend, there was a missing link which stopped her from returning back to the Main Menu incase she decided that she wanted to exit from 'Adding a Friend' page. She also pointed out that if someone tried to add a friend's username that didn't exist the follow up page could give recommendations on similar username's to the one typed by the user in case the user accidentally misspelled it. This would also improve the 'Error Prevention' and 'Flexibility' of the app in it's Heuristic Evaluations. 
 
 ## Try The App! 
 
