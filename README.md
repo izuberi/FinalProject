@@ -19,25 +19,28 @@ Kyle just moved into a new school from abroad, leaving behind his family and fri
 
 ## Screen Designs 
 
-Registration Page
+Registration Page  
 
-Registration
+Registration  
 ![](https://izuberi.github.io/Portfolio/Registration.png)
 
-Completed Registered Profile
+Completed Registered Profile  
 ![](https://izuberi.github.io/Portfolio/Registration%20Profile.png)
 
-Different Versions of the Menu (depending on number of group members)
+Different Versions of the Menu (depending on number of group members)  
 ![](https://izuberi.github.io/Portfolio/Menu.png)
 
-User Schedule
+User Schedule  
 ![](https://izuberi.github.io/Portfolio/Self%20Schedule.png)
 
-Adding A Friend
+Adding A Friend  
 ![](https://izuberi.github.io/Portfolio/Adding%20%A%20Friend.png)
 
-Messaging Friend
+Messaging Friend  
 ![](https://izuberi.github.io/Portfolio/Friend%20Profile.png)
+
+Overview  
+![]((https://izuberi.github.io/Portfolio/Overview.png)
 
 ## Usability Testing
 
