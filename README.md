@@ -49,7 +49,7 @@ Below is the Testing Video from the Interview
 
 ## Results and Reflection 
 
-The interviewee was able to navigate through the website easily but pointed out difficulty in returning to the main page after completing the first task of adding a friend, there was a missing link which stopped her from returning back to the Main Menu incase she decided that she wanted to exit from 'Adding a Friend' page. She also pointed out that if someone tried to add a friend's username that didn't exist the follow up page could give recommendations on similar username's to the one typed by the user in case the user accidentally misspelled it. This would also improve the 'Error Prevention' and 'Flexibility' of the app in it's Heuristic Evaluations. 
+The interviewee was able to navigate through the website easily but pointed out difficulty in returning to the main page after completing the first task of adding a friend, there was a missing link which stopped her from returning back to the Main Menu incase she decided that she wanted to exit from 'Adding a Friend' page. I also discovered that many of the clciks that I originally planned in the prototype were linking to the wrong page - as the interviewee also pointed out. To further improve the app we also could include friend recommendations in the case that someone mistypes a username whilst trying to add a friend. This would also improve the 'Error Prevention' and 'Flexibility' of the app in it's Heuristic Evaluations. 
 
 ## Try The App! 
 
