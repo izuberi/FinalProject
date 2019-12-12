@@ -44,7 +44,6 @@ Overview
 
 I conducted a usability test using the rough prototype of the app iKo on a first year transfer student at UCLA. Similar to the persona that was created the interviewee was also a student who had just moved to Los Angeles was feeling a bit overwhelmed with the new and unfamiliar environment. She was asked to complete the task of adding a new friend to her group and send her a message about 'Studying together at Hedrick' and to also add a new class into her own schedule. Whilst conducting the interview we asked her for verbal feedback whilst completing the tasks and observed the difficulty level of the tasks. 
 
-Below is the Testing Video from the Interview
 ![](https://izuberi.github.io/Portfolio/Testing.mov)
 
 ## Results and Reflection 
