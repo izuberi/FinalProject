@@ -53,3 +53,7 @@ The interviewee was able to navigate through the website easily but pointed out 
 ## Try The App! 
 
 [Click Here](https://www.figma.com/file/Djv1B8qfscLk8L9VZEazbI/iKo?node-id=0%3A1)
+
+## [Pitch Video](https://www.google.com)
+
+
