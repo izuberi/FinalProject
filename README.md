@@ -5,9 +5,6 @@
 
 As an incoming transfer student at UCLA I worried about building and maintaining a community that made me feel at home at a university with such a large student body. Since transfers do not have the traditional four year experience many feel a sense of urgency to get the most out of their two years at university whilst balancing a heavy schedule. One of the biggest aspects of university life is the social aspect - researchers have found that feeling alone can trigger many [health related issues](https://journals.sagepub.com/doi/full/10.1177/1745691614568352). Although there are many existing Social Media apps like Facebook, Twitter and Instagram to stay in contact we wanted to create an app tailored around university students and their schedules to make meeting up with friends easier. 
 
-## User Research
-
-
 ## Persona 
 
 ![](https://izuberi.github.io/Portfolio/Persona.png)  
@@ -22,25 +19,25 @@ Kyle just moved into a new school from abroad, leaving behind his family and fri
 
 ## Screen Designs 
 
-Registration Page  
+### Registration Page  
 ![](https://izuberi.github.io/Portfolio/Registration.png)
 
-Completed Registered Profile  
+### Completed Registered Profile  
 ![](https://izuberi.github.io/Portfolio/Registration%20Profile.png)
 
-Different Versions of the Menu (depending on number of group members)  
+### Different Versions of the Menu (depending on number of group members)  
 ![](https://izuberi.github.io/Portfolio/Menu.png)
 
-User Schedule  
+### User Schedule  
 ![](https://izuberi.github.io/Portfolio/Self%20Schedule.png)
 
-Adding A Friend  
+### Adding A Friend  
 ![](https://izuberi.github.io/Portfolio/Adding%20A%20Friend.png)
 
-Messaging Friend  
+### Messaging Friend  
 ![](https://izuberi.github.io/Portfolio/Friend%20Profile.png)
 
-Overview  
+### Overview  
 ![](https://izuberi.github.io/Portfolio/Overview%20New.png)
 
 ## Usability Testing
