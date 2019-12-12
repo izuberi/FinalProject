@@ -54,6 +54,5 @@ The interviewee was able to navigate through the website easily but pointed out 
 
 [Click Here](https://www.figma.com/file/Djv1B8qfscLk8L9VZEazbI/iKo?node-id=0%3A1)
 
-## [Pitch Video](https://www.google.com)
-
+## [Pitch Video](https://drive.google.com/file/d/1SOguVDhiY4cVlcMIbkkBdo4LwhAJDcNi/view?usp=sharing)
 
